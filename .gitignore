@@ -1,0 +1,51 @@
+## Visual Studio / .NET Standard gitignore ##
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio files
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code files
+.vscode/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userprefs
+
+# ASP.NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# .NET Core
+project.assets.json
+*.nupkg
+*.appxsym
+*.appxrecipe
+*.appxrepro
+
+# Bup (Backup) files
+*.bak
+
+# macOS files
+.DS_Store
+
+# End of .gitignore
