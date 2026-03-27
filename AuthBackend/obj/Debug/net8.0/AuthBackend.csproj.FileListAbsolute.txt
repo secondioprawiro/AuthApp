@@ -37,3 +37,4 @@ D:\TEST_DINAMIS_INFOMADYA\AuthApp\AuthBackend\obj\Debug\net8.0\refint\AuthBacken
 D:\TEST_DINAMIS_INFOMADYA\AuthApp\AuthBackend\obj\Debug\net8.0\AuthBackend.pdb
 D:\TEST_DINAMIS_INFOMADYA\AuthApp\AuthBackend\obj\Debug\net8.0\AuthBackend.genruntimeconfig.cache
 D:\TEST_DINAMIS_INFOMADYA\AuthApp\AuthBackend\obj\Debug\net8.0\ref\AuthBackend.dll
+D:\TEST_DINAMIS_INFOMADYA\AuthApp\AuthBackend\obj\Debug\net8.0\AuthBackend.sourcelink.json
